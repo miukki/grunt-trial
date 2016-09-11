@@ -1,0 +1,30 @@
+{
+  "name": "grunt-trial",
+  "version": "1.0.0",
+  "description": "trialling using grunt to find HTML errors",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-htmlhint-plus": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geligelu/grunt-trial.git"
+  },
+  "keywords": [
+    "grunt",
+    "html",
+    "lint"
+  ],
+  "author": "@geligelu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geligelu/grunt-trial/issues"
+  },
+  "homepage": "https://github.com/geligelu/grunt-trial#readme"
+}

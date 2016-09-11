@@ -7,7 +7,8 @@
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-htmlhint": "^0.9.13",
-    "grunt-htmlhint-plus": "^0.4.0"
+    "grunt-htmlhint-plus": "^0.4.0",
+    "htmlhint": "^0.9.13"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

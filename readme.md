@@ -6,4 +6,4 @@ uses grunt and HTML hint with custom rules to find ngerror="" attributes and fla
 
 was forced to use original ``htmlhint`` git repo, and then run its grunt task to use my rule. But it works. Check out this output:
 
-![grunt task trial with html with errors](grunt-trial-test.png)?raw=true "Example of task being run on index.html")
+![grunt task trial with html with errors](grunt-trial-test.png?raw=true "Example of task being run on 'index.html'")
